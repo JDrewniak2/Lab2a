@@ -24,6 +24,6 @@ public class TestRegEx {
         else
             System.out.println("Nie znaleziono tytułu ... ");
 
-
     }
+
 }
